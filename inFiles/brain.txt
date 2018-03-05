@@ -1,0 +1,144 @@
+0-19|~|~|~|Benign/Borderline|~|39865121|Female|All other|2004|~|~|~
+0-19|~|~|~|Malignant|~|39865121|Female|All other|2004|~|~|~
+0-19|~|~|~|Benign/Borderline|~|39998876|Female|All other|2005|~|~|~
+0-19|~|~|~|Malignant|~|39998876|Female|All other|2005|~|~|~
+0-19|~|~|~|Benign/Borderline|~|40165421|Female|All other|2006|~|~|~
+0-19|~|~|~|Malignant|~|40165421|Female|All other|2006|~|~|~
+0-19|~|~|~|Benign/Borderline|~|40382360|Female|All other|2007|~|~|~
+0-19|~|~|~|Malignant|~|40382360|Female|All other|2007|~|~|~
+0-19|~|~|~|Benign/Borderline|~|40576293|Female|All other|2008|~|~|~
+0-19|~|~|~|Malignant|~|40576293|Female|All other|2008|~|~|~
+0-19|~|~|~|Benign/Borderline|~|40670476|Female|All other|2009|~|~|~
+0-19|~|~|~|Malignant|~|40670476|Female|All other|2009|~|~|~
+0-19|~|~|~|Benign/Borderline|~|40634383|Female|All other|2010|~|~|~
+0-19|~|~|~|Malignant|~|40634383|Female|All other|2010|~|~|~
+0-19|0.0|0.0|0.0|Benign/Borderline|.|200037056|Female|All other|2010-2014|0.0|0.0|0.0
+0-19|0.0|0.0|0.0|Malignant|30|200037056|Female|All other|2010-2014|0.0|0.0|0.0
+0-19|~|~|~|Benign/Borderline|~|40110236|Female|All other|2011|~|~|~
+0-19|~|~|~|Malignant|~|40110236|Female|All other|2011|~|~|~
+0-19|~|~|~|Benign/Borderline|~|40311850|Female|All other|2012|~|~|~
+0-19|~|~|~|Malignant|~|40311850|Female|All other|2012|~|~|~
+0-19|~|~|~|Benign/Borderline|~|40222979|Female|All other|2013|~|~|~
+0-19|~|~|~|Malignant|~|40222979|Female|All other|2013|~|~|~
+0-19|~|~|~|Benign/Borderline|~|40176480|Female|All other|2014|~|~|~
+0-19|~|~|~|Malignant|~|40176480|Female|All other|2014|~|~|~
+0-19|~|~|~|Benign/Borderline|~|39865121|Female|Anaplastic astrocytoma|2004|~|~|~
+0-19|0.1|0.2|0.1|Malignant|45|39865121|Female|Anaplastic astrocytoma|2004|0.1|0.2|0.1
+0-19|~|~|~|Benign/Borderline|~|39998876|Female|Anaplastic astrocytoma|2005|~|~|~
+0-19|0.0|0.1|0.1|Malignant|25|39998876|Female|Anaplastic astrocytoma|2005|0.0|0.1|0.1
+0-19|~|~|~|Benign/Borderline|~|40165421|Female|Anaplastic astrocytoma|2006|~|~|~
+0-19|0.1|0.1|0.1|Malignant|31|40165421|Female|Anaplastic astrocytoma|2006|0.1|0.1|0.1
+0-19|~|~|~|Benign/Borderline|~|40382360|Female|Anaplastic astrocytoma|2007|~|~|~
+0-19|0.1|0.1|0.1|Malignant|31|40382360|Female|Anaplastic astrocytoma|2007|0.1|0.1|0.1
+0-19|~|~|~|Benign/Borderline|~|40576293|Female|Anaplastic astrocytoma|2008|~|~|~
+0-19|0.1|0.1|0.1|Malignant|32|40576293|Female|Anaplastic astrocytoma|2008|0.1|0.1|0.1
+0-19|~|~|~|Benign/Borderline|~|40670476|Female|Anaplastic astrocytoma|2009|~|~|~
+0-19|0.0|0.1|0.1|Malignant|29|40670476|Female|Anaplastic astrocytoma|2009|0.0|0.1|0.1
+0-19|~|~|~|Benign/Borderline|~|40634383|Female|Anaplastic astrocytoma|2010|~|~|~
+0-19|0.1|0.1|0.1|Malignant|40|40634383|Female|Anaplastic astrocytoma|2010|0.1|0.1|0.1
+0-19|~|~|~|Benign/Borderline|~|200037056|Female|Anaplastic astrocytoma|2010-2014|~|~|~
+0-19|0.1|0.1|0.1|Malignant|194|200037056|Female|Anaplastic astrocytoma|2010-2014|0.1|0.1|0.1
+0-19|~|~|~|Benign/Borderline|~|40110236|Female|Anaplastic astrocytoma|2011|~|~|~
+0-19|0.1|0.1|0.1|Malignant|40|40110236|Female|Anaplastic astrocytoma|2011|0.1|0.1|0.1
+0-19|~|~|~|Benign/Borderline|~|40311850|Female|Anaplastic astrocytoma|2012|~|~|~
+0-19|0.0|0.1|0.1|Malignant|24|40311850|Female|Anaplastic astrocytoma|2012|0.0|0.1|0.1
+0-19|~|~|~|Benign/Borderline|~|40222979|Female|Anaplastic astrocytoma|2013|~|~|~
+0-19|0.1|0.2|0.1|Malignant|50|40222979|Female|Anaplastic astrocytoma|2013|0.1|0.2|0.1
+0-19|~|~|~|Benign/Borderline|~|40176480|Female|Anaplastic astrocytoma|2014|~|~|~
+0-19|0.1|0.1|0.1|Malignant|40|40176480|Female|Anaplastic astrocytoma|2014|0.1|0.1|0.1
+0-19|~|~|~|Benign/Borderline|~|39865121|Female|Anaplastic oligodendroglioma|2004|~|~|~
+0-19|~|~|~|Malignant|~|39865121|Female|Anaplastic oligodendroglioma|2004|~|~|~
+0-19|~|~|~|Benign/Borderline|~|39998876|Female|Anaplastic oligodendroglioma|2005|~|~|~
+0-19|~|~|~|Malignant|~|39998876|Female|Anaplastic oligodendroglioma|2005|~|~|~
+0-19|~|~|~|Benign/Borderline|~|40165421|Female|Anaplastic oligodendroglioma|2006|~|~|~
+0-19|~|~|~|Malignant|~|40165421|Female|Anaplastic oligodendroglioma|2006|~|~|~
+0-19|~|~|~|Benign/Borderline|~|40382360|Female|Anaplastic oligodendroglioma|2007|~|~|~
+0-19|~|~|~|Malignant|~|40382360|Female|Anaplastic oligodendroglioma|2007|~|~|~
+0-19|~|~|~|Benign/Borderline|~|40576293|Female|Anaplastic oligodendroglioma|2008|~|~|~
+0-19|~|~|~|Malignant|~|40576293|Female|Anaplastic oligodendroglioma|2008|~|~|~
+0-19|~|~|~|Benign/Borderline|~|40670476|Female|Anaplastic oligodendroglioma|2009|~|~|~
+0-19|~|~|~|Malignant|~|40670476|Female|Anaplastic oligodendroglioma|2009|~|~|~
+0-19|~|~|~|Benign/Borderline|~|40634383|Female|Anaplastic oligodendroglioma|2010|~|~|~
+0-19|~|~|~|Malignant|~|40634383|Female|Anaplastic oligodendroglioma|2010|~|~|~
+0-19|~|~|~|Benign/Borderline|~|200037056|Female|Anaplastic oligodendroglioma|2010-2014|~|~|~
+0-19|0.0|0.0|0.0|Malignant|.|200037056|Female|Anaplastic oligodendroglioma|2010-2014|0.0|0.0|0.0
+0-19|~|~|~|Benign/Borderline|~|40110236|Female|Anaplastic oligodendroglioma|2011|~|~|~
+0-19|~|~|~|Malignant|~|40110236|Female|Anaplastic oligodendroglioma|2011|~|~|~
+0-19|~|~|~|Benign/Borderline|~|40311850|Female|Anaplastic oligodendroglioma|2012|~|~|~
+0-19|~|~|~|Malignant|~|40311850|Female|Anaplastic oligodendroglioma|2012|~|~|~
+0-19|~|~|~|Benign/Borderline|~|40222979|Female|Anaplastic oligodendroglioma|2013|~|~|~
+0-19|~|~|~|Malignant|~|40222979|Female|Anaplastic oligodendroglioma|2013|~|~|~
+0-19|~|~|~|Benign/Borderline|~|40176480|Female|Anaplastic oligodendroglioma|2014|~|~|~
+0-19|~|~|~|Malignant|~|40176480|Female|Anaplastic oligodendroglioma|2014|~|~|~
+0-19|~|~|~|Benign/Borderline|~|39865121|Female|Astrocytoma, NOS|2004|~|~|~
+0-19|0.2|0.3|0.2|Malignant|93|39865121|Female|Astrocytoma, NOS|2004|0.2|0.3|0.2
+0-19|~|~|~|Benign/Borderline|~|39998876|Female|Astrocytoma, NOS|2005|~|~|~
+0-19|0.2|0.3|0.2|Malignant|92|39998876|Female|Astrocytoma, NOS|2005|0.2|0.3|0.2
+0-19|~|~|~|Benign/Borderline|~|40165421|Female|Astrocytoma, NOS|2006|~|~|~
+0-19|0.2|0.3|0.2|Malignant|89|40165421|Female|Astrocytoma, NOS|2006|0.2|0.3|0.2
+0-19|~|~|~|Benign/Borderline|~|40382360|Female|Astrocytoma, NOS|2007|~|~|~
+0-19|0.2|0.3|0.2|Malignant|86|40382360|Female|Astrocytoma, NOS|2007|0.2|0.3|0.2
+0-19|~|~|~|Benign/Borderline|~|40576293|Female|Astrocytoma, NOS|2008|~|~|~
+0-19|0.2|0.3|0.2|Malignant|85|40576293|Female|Astrocytoma, NOS|2008|0.2|0.3|0.2
+0-19|~|~|~|Benign/Borderline|~|40670476|Female|Astrocytoma, NOS|2009|~|~|~
+0-19|0.2|0.3|0.2|Malignant|96|40670476|Female|Astrocytoma, NOS|2009|0.2|0.3|0.2
+0-19|~|~|~|Benign/Borderline|~|40634383|Female|Astrocytoma, NOS|2010|~|~|~
+0-19|0.2|0.3|0.2|Malignant|95|40634383|Female|Astrocytoma, NOS|2010|0.2|0.3|0.2
+0-19|~|~|~|Benign/Borderline|~|200037056|Female|Astrocytoma, NOS|2010-2014|~|~|~
+0-19|0.2|0.2|0.2|Malignant|448|200037056|Female|Astrocytoma, NOS|2010-2014|0.2|0.2|0.2
+0-19|~|~|~|Benign/Borderline|~|40110236|Female|Astrocytoma, NOS|2011|~|~|~
+0-19|0.2|0.2|0.2|Malignant|81|40110236|Female|Astrocytoma, NOS|2011|0.2|0.3|0.2
+0-19|~|~|~|Benign/Borderline|~|40311850|Female|Astrocytoma, NOS|2012|~|~|~
+0-19|0.2|0.3|0.2|Malignant|82|40311850|Female|Astrocytoma, NOS|2012|0.2|0.3|0.2
+0-19|~|~|~|Benign/Borderline|~|40222979|Female|Astrocytoma, NOS|2013|~|~|~
+0-19|0.2|0.3|0.2|Malignant|97|40222979|Female|Astrocytoma, NOS|2013|0.2|0.3|0.2
+0-19|~|~|~|Benign/Borderline|~|40176480|Female|Astrocytoma, NOS|2014|~|~|~
+0-19|0.2|0.3|0.2|Malignant|94|40176480|Female|Astrocytoma, NOS|2014|0.2|0.3|0.2
+0-19|0.0|0.1|0.1|Benign/Borderline|29|39865121|Female|Choroid plexus|2004|0.0|0.1|0.1
+0-19|~|~|~|Malignant|~|39865121|Female|Choroid plexus|2004|~|~|~
+0-19|0.0|0.1|0.1|Benign/Borderline|21|39998876|Female|Choroid plexus|2005|0.0|0.1|0.1
+0-19|~|~|~|Malignant|~|39998876|Female|Choroid plexus|2005|~|~|~
+0-19|0.0|0.1|0.1|Benign/Borderline|28|40165421|Female|Choroid plexus|2006|0.0|0.1|0.1
+0-19|~|~|~|Malignant|~|40165421|Female|Choroid plexus|2006|~|~|~
+0-19|0.0|0.1|0.1|Benign/Borderline|30|40382360|Female|Choroid plexus|2007|0.1|0.1|0.1
+0-19|~|~|~|Malignant|~|40382360|Female|Choroid plexus|2007|~|~|~
+0-19|0.1|0.1|0.1|Benign/Borderline|42|40576293|Female|Choroid plexus|2008|0.1|0.1|0.1
+0-19|~|~|~|Malignant|~|40576293|Female|Choroid plexus|2008|~|~|~
+0-19|0.0|0.1|0.1|Benign/Borderline|22|40670476|Female|Choroid plexus|2009|0.0|0.1|0.1
+0-19|~|~|~|Malignant|~|40670476|Female|Choroid plexus|2009|~|~|~
+0-19|0.0|0.1|0.1|Benign/Borderline|28|40634383|Female|Choroid plexus|2010|0.0|0.1|0.1
+0-19|~|~|~|Malignant|~|40634383|Female|Choroid plexus|2010|~|~|~
+0-19|0.1|0.1|0.1|Benign/Borderline|124|200037056|Female|Choroid plexus|2010-2014|0.1|0.1|0.1
+0-19|0.0|0.0|0.0|Malignant|50|200037056|Female|Choroid plexus|2010-2014|0.0|0.0|0.0
+0-19|0.0|0.1|0.1|Benign/Borderline|26|40110236|Female|Choroid plexus|2011|0.0|0.1|0.1
+0-19|~|~|~|Malignant|~|40110236|Female|Choroid plexus|2011|~|~|~
+0-19|0.0|0.1|0.1|Benign/Borderline|24|40311850|Female|Choroid plexus|2012|0.0|0.1|0.1
+0-19|~|~|~|Malignant|~|40311850|Female|Choroid plexus|2012|~|~|~
+0-19|0.0|0.1|0.1|Benign/Borderline|28|40222979|Female|Choroid plexus|2013|0.0|0.1|0.1
+0-19|~|~|~|Malignant|~|40222979|Female|Choroid plexus|2013|~|~|~
+0-19|0.0|0.1|0.0|Benign/Borderline|19|40176480|Female|Choroid plexus|2014|0.0|0.1|0.0
+0-19|~|~|~|Malignant|~|40176480|Female|Choroid plexus|2014|~|~|~
+0-19|0.2|0.3|0.2|Benign/Borderline|82|39865121|Female|Craniopharyngioma|2004|0.2|0.3|0.2
+0-19|~|~|~|Malignant|~|39865121|Female|Craniopharyngioma|2004|~|~|~
+0-19|0.2|0.2|0.2|Benign/Borderline|77|39998876|Female|Craniopharyngioma|2005|0.2|0.2|0.2
+0-19|~|~|~|Malignant|~|39998876|Female|Craniopharyngioma|2005|~|~|~
+0-19|0.2|0.2|0.2|Benign/Borderline|76|40165421|Female|Craniopharyngioma|2006|0.1|0.2|0.2
+0-19|~|~|~|Malignant|~|40165421|Female|Craniopharyngioma|2006|~|~|~
+0-19|0.2|0.3|0.2|Benign/Borderline|95|40382360|Female|Craniopharyngioma|2007|0.2|0.3|0.2
+0-19|~|~|~|Malignant|~|40382360|Female|Craniopharyngioma|2007|~|~|~
+0-19|0.1|0.2|0.2|Benign/Borderline|63|40576293|Female|Craniopharyngioma|2008|0.1|0.2|0.2
+0-19|~|~|~|Malignant|~|40576293|Female|Craniopharyngioma|2008|~|~|~
+0-19|0.2|0.3|0.2|Benign/Borderline|91|40670476|Female|Craniopharyngioma|2009|0.2|0.3|0.2
+0-19|~|~|~|Malignant|~|40670476|Female|Craniopharyngioma|2009|~|~|~
+0-19|0.2|0.3|0.2|Benign/Borderline|91|40634383|Female|Craniopharyngioma|2010|0.2|0.3|0.2
+0-19|~|~|~|Malignant|~|40634383|Female|Craniopharyngioma|2010|~|~|~
+0-19|0.2|0.2|0.2|Benign/Borderline|419|200037056|Female|Craniopharyngioma|2010-2014|0.2|0.2|0.2
+0-19|~|~|~|Malignant|~|200037056|Female|Craniopharyngioma|2010-2014|~|~|~
+0-19|0.2|0.3|0.2|Benign/Borderline|84|40110236|Female|Craniopharyngioma|2011|0.2|0.3|0.2
+0-19|~|~|~|Malignant|~|40110236|Female|Craniopharyngioma|2011|~|~|~
+0-19|0.2|0.2|0.2|Benign/Borderline|78|40311850|Female|Craniopharyngioma|2012|0.2|0.2|0.2
+0-19|~|~|~|Malignant|~|40311850|Female|Craniopharyngioma|2012|~|~|~
+0-19|0.2|0.3|0.2|Benign/Borderline|84|40222979|Female|Craniopharyngioma|2013|0.2|0.3|0.2
+0-19|~|~|~|Malignant|~|40222979|Female|Craniopharyngioma|2013|~|~|~
+0-19|0.2|0.3|0.2|Benign/Borderline|83|40176480|Female|Craniopharyngioma|2014|0.2|0.3|0.2
+0-19|~|~|~|Malignant|~|40176480|Female|Craniopharyngioma|2014|~|~|~
